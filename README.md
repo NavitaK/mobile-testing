@@ -14,6 +14,14 @@
 
 * [Test apps on Android](https://developer.android.com/training/testing/)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
+* [AndroidX Test release notes](https://developer.android.com/training/testing/release-notes)
+
+**Official presentations (Android)**
+
+* [Testing Android Apps at Scale with Nitrogen (Android Dev Summit '18)](https://www.youtube.com/watch?v=-_kZC29sWAo)
+* [Testing Rebooted (with AndroidX Test) (Android Dev Summit '18)](https://www.youtube.com/watch?v=4m2yYSTdvIg)
+* [Frictionless Android testing: write once, run everywhere (Google I/O '18)](https://www.youtube.com/watch?v=wYMIadv9iF8)
+* [Test-Driven Development on Android with the Android Testing Support Library (Google I/O '17)](https://www.youtube.com/watch?v=pK7W5npkhho)
 
 **Tools (Android)**
 
@@ -21,25 +29,38 @@
 * [logcat](https://developer.android.com/studio/command-line/logcat) - a command-line tool that dumps a log of system messages, including stack traces when the device throws an error and messages that you have written from your app with the Log class
 * [Developer options](https://developer.android.com/studio/debug/dev-options) - lets you configure system behaviors that help you profile and debug your app performance
 * [Android Profiler](https://developer.android.com/studio/profile/android-profiler) - provides real-time data to help you to understand how your app uses CPU, memory, network, and battery resources
-* [Charles](https://www.charlesproxy.com/)\[Fiddler](https://www.telerik.com/fiddler) – debug proxy
+* [Charles](https://www.charlesproxy.com/)/[Fiddler](https://www.telerik.com/fiddler) – debug proxy
 * [Crashlytics](https://docs.fabric.io/apple/crashlytics/overview.html) – crash reporting solution
 * [HockeyApp](https://hockeyapp.net/apps/) - a service that allows developers to recruit and manage testers, distribute apps, and collect crash reports, among other things
 
 **Virtualization (Android)**
 
-* [Selenoid](https://github.com/aerokube/selenoid)
-* [Docker-Android](https://github.com/butomo1989/docker-android)
+* [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers and Android emulators within containers
+* [Docker-Android](https://github.com/butomo1989/docker-android) - Android in docker solution with noVNC supported and video recording
 
 **Local device farm (Android)**
 
-* [OpenSTF](https://openstf.io/)
+* [OpenSTF](https://openstf.io/) - Control and manage Android devices from your browser
 
 **Mobile cloud services**
 
-* Firebase Test lab
+* [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
 **Native Android test automation tools and libraries**
 
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
 * [Kakao](https://github.com/agoda-com/Kakao) – “Nice and simple DSL for Espresso in Kotlin”
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
+
+**Native Android test automation presentations**
+
+* [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en)
+* [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ)
+
+**Test automation tools evaluation**
+
+* [The Shifting Landscape of Mobile Automation(https://www.youtube.com/watch?v=AV8p2aeqsOg)
+* [Mobile automation: three act tragedy [Ru](https://seleniumcamp.com/talk/mobile-automation-three-act-tragedy/)
+* [Appium vs Espresso. Что выбрать и как использовать? [Ru](https://www.youtube.com/watch?v=A1_Xzcs_Fec)
+* [СI/CD в iOS и Android [Ru](https://www.youtube.com/watch?v=y0wxtyUQZ1I)
+* [Do Androids Dream of UI Testing?(https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
