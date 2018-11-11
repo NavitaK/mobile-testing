@@ -37,6 +37,8 @@
 
 * [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers and Android emulators within containers
 * [Docker-Android](https://github.com/butomo1989/docker-android) - Android in docker solution with noVNC supported and video recording
+* [swarmer](https://github.com/gojuno/swarmer) - Reactive tool to create and start multiple Android Emulators in parallel
+* [fastlane-plugin-automated-test-emulator-run](https://github.com/AzimoLabs/fastlane-plugin-automated-test-emulator-run) - Plugin dedicated for Android platform. Wraps gradle task/shell command used for launching instrumented tests. Provides start of as many AVDs with various configs as needed before test run, waits for boot, kills emulators and deletes them from hdd after tests are finished or disturbed.
 
 **Local device farm (Android)**
 
@@ -48,6 +50,7 @@
 
 **Native Android test automation tools and libraries**
 
+* [Espresso](https://developer.android.com/training/testing/espresso/)
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
 * [Kakao](https://github.com/agoda-com/Kakao) – “Nice and simple DSL for Espresso in Kotlin”
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
@@ -59,8 +62,8 @@
 
 **Test automation tools evaluation**
 
-* [The Shifting Landscape of Mobile Automation(https://www.youtube.com/watch?v=AV8p2aeqsOg)
-* [Mobile automation: three act tragedy [Ru](https://seleniumcamp.com/talk/mobile-automation-three-act-tragedy/)
-* [Appium vs Espresso. Что выбрать и как использовать? [Ru](https://www.youtube.com/watch?v=A1_Xzcs_Fec)
-* [СI/CD в iOS и Android [Ru](https://www.youtube.com/watch?v=y0wxtyUQZ1I)
-* [Do Androids Dream of UI Testing?(https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
+* [The Shifting Landscape of Mobile Automation](https://www.youtube.com/watch?v=AV8p2aeqsOg)
+* [Mobile automation: three act tragedy](https://seleniumcamp.com/talk/mobile-automation-three-act-tragedy/) (Ru)
+* [Appium vs Espresso. Что выбрать и как использовать?](https://www.youtube.com/watch?v=A1_Xzcs_Fec) (Ru)
+* [СI/CD в iOS и Android](https://www.youtube.com/watch?v=y0wxtyUQZ1I) (Ru)
+* [Do Androids Dream of UI Testing?](https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
