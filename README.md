@@ -1,5 +1,7 @@
 # Mobile testing
 
+This is a curated list of mobile testing related resources.
+
 # Table of contents
 
 * [Books](#books)
@@ -71,8 +73,8 @@
 
 # Native Android test automation presentations
 
-* [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en)
-* [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ)
+* [A practical guide to writing solid UI tests on Android by Valera Zakharov](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en)
+* [UI testing is so easy - said no developer ever by Valera Zakharov](https://www.youtube.com/watch?v=SkkO6x6LhCQ)
 
 # Test automation tools evaluation
 
