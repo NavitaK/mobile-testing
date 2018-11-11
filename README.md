@@ -1,29 +1,43 @@
 # Mobile testing
 
-**Books**
+# Table of contents
+
+* [Books](#books)
+* [Mind maps, mnemonics](#mind-maps-mnemonics)
+* [Official documentation (Android)](#official-documentation-android)
+* [Official presentations (Android)](#official-presentations-android)
+* [Tools (Android)](#tools-android)
+* [Virtualization (Android)](#virtualization-android)
+* [Local device farm (Android)](#local-device-farm-android)
+* [Mobile cloud services](#mobile-cloud-services)
+* [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
+* [Native Android test automation presentations](#native-android-test-automation-presentations)
+* [Test automation tools evaluation](#test-automation-tools-evaluation)
+
+# Books
 
 * [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714)
 * [Mobile Testing Tips: Experiences & Realities](https://www.amazon.com/Mobile-Testing-Tips-Experiences-Realities/dp/6056414035)
 * [Tap Into Mobile Application Testing](https://leanpub.com/testmobileapps)
 
-**Mind maps, mnemonics**
+# Mind maps, mnemonics
 
 * [MIND MAPS: FOR FAST AND EFFECTIVE TESTING](https://badootech.badoo.com/mind-maps-for-fast-and-effective-testing-30aab6bea6f4)
 
-**Official documentation (Android)**
+# Official documentation (Android)
 
 * [Test apps on Android](https://developer.android.com/training/testing/)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
 * [AndroidX Test release notes](https://developer.android.com/training/testing/release-notes)
 
-**Official presentations (Android)**
+# Official presentations (Android)
 
 * [Testing Android Apps at Scale with Nitrogen (Android Dev Summit '18)](https://www.youtube.com/watch?v=-_kZC29sWAo)
 * [Testing Rebooted (with AndroidX Test) (Android Dev Summit '18)](https://www.youtube.com/watch?v=4m2yYSTdvIg)
 * [Frictionless Android testing: write once, run everywhere (Google I/O '18)](https://www.youtube.com/watch?v=wYMIadv9iF8)
 * [Test-Driven Development on Android with the Android Testing Support Library (Google I/O '17)](https://www.youtube.com/watch?v=pK7W5npkhho)
 
-**Tools (Android)**
+# Tools (Android)
 
 * [adb](https://developer.android.com/studio/command-line/adb) - a versatile command-line tool that lets you communicate with a device
 * [logcat](https://developer.android.com/studio/command-line/logcat) - a command-line tool that dumps a log of system messages, including stack traces when the device throws an error and messages that you have written from your app with the Log class
@@ -33,34 +47,34 @@
 * [Crashlytics](https://docs.fabric.io/apple/crashlytics/overview.html) – crash reporting solution
 * [HockeyApp](https://hockeyapp.net/apps/) - a service that allows developers to recruit and manage testers, distribute apps, and collect crash reports, among other things
 
-**Virtualization (Android)**
+# Virtualization (Android)
 
 * [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers and Android emulators within containers
 * [Docker-Android](https://github.com/butomo1989/docker-android) - Android in docker solution with noVNC supported and video recording
 * [swarmer](https://github.com/gojuno/swarmer) - Reactive tool to create and start multiple Android Emulators in parallel
 * [fastlane-plugin-automated-test-emulator-run](https://github.com/AzimoLabs/fastlane-plugin-automated-test-emulator-run) - Plugin dedicated for Android platform. Wraps gradle task/shell command used for launching instrumented tests. Provides start of as many AVDs with various configs as needed before test run, waits for boot, kills emulators and deletes them from hdd after tests are finished or disturbed.
 
-**Local device farm (Android)**
+# Local device farm (Android)
 
 * [OpenSTF](https://openstf.io/) - Control and manage Android devices from your browser
 
-**Mobile cloud services**
+# Mobile cloud services
 
 * [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
-**Native Android test automation tools and libraries**
+# Native Android test automation tools and libraries
 
 * [Espresso](https://developer.android.com/training/testing/espresso/)
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
 * [Kakao](https://github.com/agoda-com/Kakao) – “Nice and simple DSL for Espresso in Kotlin”
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
 
-**Native Android test automation presentations**
+# Native Android test automation presentations
 
 * [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en)
 * [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ)
 
-**Test automation tools evaluation**
+# Test automation tools evaluation
 
 * [The Shifting Landscape of Mobile Automation](https://www.youtube.com/watch?v=AV8p2aeqsOg)
 * [Mobile automation: three act tragedy](https://seleniumcamp.com/talk/mobile-automation-three-act-tragedy/) (Ru)
