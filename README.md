@@ -6,14 +6,15 @@ This is a curated list of mobile testing related resources.
 
 * [Books](#books)
 * [Mind maps, mnemonics](#mind-maps-mnemonics)
-* [Official documentation (Android)](#official-documentation-android)
-* [Official presentations (Android)](#official-presentations-android)
-* [Tools (Android)](#tools-android)
-* [Virtualization (Android)](#virtualization-android)
-* [Local device farm (Android)](#local-device-farm-android)
+* Android
+  * [Official documentation](#official-documentation-android)
+  * [Official presentations](#official-presentations-android)
+  * [Tools](#tools-android)
+  * [Virtualization](#virtualization-android)
+  * [Local device farm](#local-device-farm-android)
+  * [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
+  * [Native Android test automation presentations](#native-android-test-automation-presentations)
 * [Mobile cloud services](#mobile-cloud-services)
-* [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
-* [Native Android test automation presentations](#native-android-test-automation-presentations)
 * [Test automation tools evaluation](#test-automation-tools-evaluation)
 
 # Books
@@ -60,10 +61,6 @@ This is a curated list of mobile testing related resources.
 
 * [OpenSTF](https://openstf.io/) - Control and manage Android devices from your browser
 
-# Mobile cloud services
-
-* [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
-
 # Native Android test automation tools and libraries
 
 * [Espresso](https://developer.android.com/training/testing/espresso/)
@@ -75,6 +72,10 @@ This is a curated list of mobile testing related resources.
 
 * [A practical guide to writing solid UI tests on Android by Valera Zakharov](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en)
 * [UI testing is so easy - said no developer ever by Valera Zakharov](https://www.youtube.com/watch?v=SkkO6x6LhCQ)
+
+# Mobile cloud services
+
+* [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
 # Test automation tools evaluation
 
