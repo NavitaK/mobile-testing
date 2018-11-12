@@ -19,9 +19,9 @@ This is a curated list of mobile testing related resources.
 
 # Books
 
-* [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business by Daniel Knott](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714) (2015)
-* [Mobile Testing Tips: Experiences & Realities by Baris Sarialioglu](https://www.amazon.com/Mobile-Testing-Tips-Experiences-Realities/dp/6056414035) (2015)
-* [Tap Into Mobile Application Testing by Jonathan Kohl](https://leanpub.com/testmobileapps) (2017)
+* [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714) by Daniel Knott (2015)
+* [Mobile Testing Tips: Experiences & Realities](https://www.amazon.com/Mobile-Testing-Tips-Experiences-Realities/dp/6056414035) by Baris Sarialioglu (2015)
+* [Tap Into Mobile Application Testing](https://leanpub.com/testmobileapps) by Jonathan Kohl (2017)
 
 # Mind maps, mnemonics
 
@@ -70,8 +70,8 @@ This is a curated list of mobile testing related resources.
 
 # Native Android test automation presentations
 
-* [A practical guide to writing solid UI tests on Android by Valera Zakharov](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en)
-* [UI testing is so easy - said no developer ever by Valera Zakharov](https://www.youtube.com/watch?v=SkkO6x6LhCQ)
+* [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en) by Valera Zakharov
+* [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ) by Valera Zakharov
 
 # Mobile cloud services
 
