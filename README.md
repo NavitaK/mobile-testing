@@ -14,6 +14,9 @@ This is a curated list of mobile testing related resources.
   * [Local device farm](#local-device-farm-android)
   * [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
   * [Native Android test automation presentations](#native-android-test-automation-presentations)
+* iOS
+  * [Official documentation](#official-documentation-ios)
+  * [Official presentations](#official-presentations-ios)
 * [Mobile cloud services](#mobile-cloud-services)
 * [Test automation tools evaluation](#test-automation-tools-evaluation)
 
@@ -72,6 +75,16 @@ This is a curated list of mobile testing related resources.
 
 * [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en) by Valera Zakharov
 * [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ) by Valera Zakharov
+
+# Official documentation (iOS)
+
+* [XCTest](https://developer.apple.com/documentation/xctest)
+* [About Testing with Xcode](https://developer.android.com/training/testing/) (archived)
+
+# Official presentations (iOS)
+
+* [WWDC 2015: Continuous Integration and Code Coverage in Xcode 7 (410)](https://developer.apple.com/videos/play/wwdc2015/410/)
+* [WWDC 2015: UI Testing in Xcode 7 (406)](https://developer.apple.com/videos/wwdc/2015/?id=406)
 
 # Mobile cloud services
 
