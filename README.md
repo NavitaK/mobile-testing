@@ -42,11 +42,11 @@ This is a curated list of mobile testing related resources.
 
 # Official presentations (Android)
 
-* [Testing Android Apps at Scale with Nitrogen (Android Dev Summit '18)](https://www.youtube.com/watch?v=-_kZC29sWAo)
-* [Testing Rebooted (with AndroidX Test) (Android Dev Summit '18)](https://www.youtube.com/watch?v=4m2yYSTdvIg)
-* [Frictionless Android testing: write once, run everywhere (Google I/O '18)](https://www.youtube.com/watch?v=wYMIadv9iF8)
-* [Test-Driven Development on Android with the Android Testing Support Library (Google I/O '17)](https://www.youtube.com/watch?v=pK7W5npkhho)
-* [GTAC 2014: Going Green: Cleaning up the Toxic Mobile Environment](https://www.youtube.com/watch?v=aHcmsK9jfGU)
+* [Testing Android Apps at Scale with Nitrogen](https://www.youtube.com/watch?v=-_kZC29sWAo) (Android Dev Summit '18)
+* [Testing Rebooted (with AndroidX Test)](https://www.youtube.com/watch?v=4m2yYSTdvIg) (Android Dev Summit '18)
+* [Frictionless Android testing: write once, run everywhere](https://www.youtube.com/watch?v=wYMIadv9iF8) (Google I/O '18)
+* [Test-Driven Development on Android with the Android Testing Support Library](https://www.youtube.com/watch?v=pK7W5npkhho) (Google I/O '17)
+* [Going Green: Cleaning up the Toxic Mobile Environment](https://www.youtube.com/watch?v=aHcmsK9jfGU) (GTAC 2014)
 
 # Tools (Android)
 
@@ -75,6 +75,7 @@ This is a curated list of mobile testing related resources.
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
 * [Kakao](https://github.com/agoda-com/Kakao) – “Nice and simple DSL for Espresso in Kotlin”
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
+* [Robolectric](http://robolectric.org/) - a framework that brings fast and reliable unit tests to Android. Tests run inside the JVM on your workstation in seconds
 
 # Native Android test automation presentations
 
