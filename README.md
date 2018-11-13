@@ -17,8 +17,10 @@ This is a curated list of mobile testing related resources.
 * iOS
   * [Official documentation](#official-documentation-ios)
   * [Official presentations](#official-presentations-ios)
+  * [Native iOS test automation presentations](#native-ios-test-automation-presentations)
 * [Mobile cloud services](#mobile-cloud-services)
 * [Test automation tools evaluation](#test-automation-tools-evaluation)
+* [Cross-platform best practices](#cross-platform-best-practices)
 
 # Books
 
@@ -42,6 +44,7 @@ This is a curated list of mobile testing related resources.
 * [Testing Rebooted (with AndroidX Test) (Android Dev Summit '18)](https://www.youtube.com/watch?v=4m2yYSTdvIg)
 * [Frictionless Android testing: write once, run everywhere (Google I/O '18)](https://www.youtube.com/watch?v=wYMIadv9iF8)
 * [Test-Driven Development on Android with the Android Testing Support Library (Google I/O '17)](https://www.youtube.com/watch?v=pK7W5npkhho)
+* [GTAC 2014: Going Green: Cleaning up the Toxic Mobile Environment](https://www.youtube.com/watch?v=aHcmsK9jfGU)
 
 # Tools (Android)
 
@@ -83,8 +86,18 @@ This is a curated list of mobile testing related resources.
 
 # Official presentations (iOS)
 
+* [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417)
+* [What's New in Testing](https://developer.apple.com/videos/play/wwdc2018/403/)
+* [Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/)
+* [What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409)
+* [Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409)
 * [WWDC 2015: Continuous Integration and Code Coverage in Xcode 7 (410)](https://developer.apple.com/videos/play/wwdc2015/410/)
 * [WWDC 2015: UI Testing in Xcode 7 (406)](https://developer.apple.com/videos/wwdc/2015/?id=406)
+
+# Native iOS test automation presentations
+
+* [iOS Test Automation at Continuous Delivery Pipeline](https://www.youtube.com/watch?v=ImR956OKTn4) by Igor Dorovskikh
+* [Scalable iOS Test Automation with XCUITest and Swift 3](https://www.youtube.com/watch?v=xOxvCcidIf0) by Igor Dorovskikh
 
 # Mobile cloud services
 
@@ -97,3 +110,7 @@ This is a curated list of mobile testing related resources.
 * [Appium vs Espresso. Что выбрать и как использовать?](https://www.youtube.com/watch?v=A1_Xzcs_Fec) (Ru)
 * [СI/CD в iOS и Android](https://www.youtube.com/watch?v=y0wxtyUQZ1I) (Ru)
 * [Do Androids Dream of UI Testing?](https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
+
+# Cross-platform best practices
+
+* [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
