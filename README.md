@@ -19,14 +19,15 @@ This is a curated list of mobile testing related resources.
   * [Official presentations](#official-presentations-ios)
   * [Native iOS test automation presentations](#native-ios-test-automation-presentations)
 * [Mobile cloud services](#mobile-cloud-services)
+* [Mobile cloud presentations](#mobile-cloud-presentations)
 * [Test automation tools evaluation](#test-automation-tools-evaluation)
 * [Cross-platform best practices](#cross-platform-best-practices)
 
 # Books
 
+* [Tap Into Mobile Application Testing](https://leanpub.com/testmobileapps) by Jonathan Kohl (2017)
 * [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714) by Daniel Knott (2015)
 * [Mobile Testing Tips: Experiences & Realities](https://www.amazon.com/Mobile-Testing-Tips-Experiences-Realities/dp/6056414035) by Baris Sarialioglu (2015)
-* [Tap Into Mobile Application Testing](https://leanpub.com/testmobileapps) by Jonathan Kohl (2017)
 
 # Mind maps, mnemonics
 
@@ -103,6 +104,10 @@ This is a curated list of mobile testing related resources.
 # Mobile cloud services
 
 * [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
+
+# Mobile cloud presentations
+
+* [Тестирование мобильных приложений используя облачные сервисы](https://www.youtube.com/watch?v=fLb2T02UBMI) (Ru) by Дмитрий Лемешко (2017-02-26)
 
 # Test automation tools evaluation
 
