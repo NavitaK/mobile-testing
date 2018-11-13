@@ -36,6 +36,7 @@ This is a curated list of mobile testing related resources.
 
 * [Test apps on Android](https://developer.android.com/training/testing/)
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
+* [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html#0)
 * [AndroidX Test release notes](https://developer.android.com/training/testing/release-notes)
 
 # Official presentations (Android)
@@ -86,13 +87,13 @@ This is a curated list of mobile testing related resources.
 
 # Official presentations (iOS)
 
-* [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417)
-* [What's New in Testing](https://developer.apple.com/videos/play/wwdc2018/403/)
-* [Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/)
-* [What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409)
-* [Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409)
-* [WWDC 2015: Continuous Integration and Code Coverage in Xcode 7 (410)](https://developer.apple.com/videos/play/wwdc2015/410/)
-* [WWDC 2015: UI Testing in Xcode 7 (406)](https://developer.apple.com/videos/wwdc/2015/?id=406)
+* [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417) (WWDC 2018)
+* [What's New in Testing](https://developer.apple.com/videos/play/wwdc2018/403/) (WWDC 2018)
+* [Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/) (WWDC 2017)
+* [What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409) (WWDC 2017)
+* [Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409) (WWDC 2016)
+* [Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/) (WWDC 2015)
+* [UI Testing in Xcode](https://developer.apple.com/videos/wwdc/2015/?id=406) (WWDC 2015)
 
 # Native iOS test automation presentations
 
