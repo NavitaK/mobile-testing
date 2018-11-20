@@ -39,6 +39,7 @@ This is a curated list of mobile testing related resources.
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
 * [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html#0)
 * [AndroidX Test release notes](https://developer.android.com/training/testing/release-notes)
+* [Test your app's accessibility](https://developer.android.com/training/accessibility/testing)
 
 # Official presentations (Android)
 
@@ -52,6 +53,7 @@ This is a curated list of mobile testing related resources.
 
 * [adb](https://developer.android.com/studio/command-line/adb) - a versatile command-line tool that lets you communicate with a device
 * [logcat](https://developer.android.com/studio/command-line/logcat) - a command-line tool that dumps a log of system messages, including stack traces when the device throws an error and messages that you have written from your app with the Log class
+* [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [Developer options](https://developer.android.com/studio/debug/dev-options) - lets you configure system behaviors that help you profile and debug your app performance
 * [Android Profiler](https://developer.android.com/studio/profile/android-profiler) - provides real-time data to help you to understand how your app uses CPU, memory, network, and battery resources
 * [Charles](https://www.charlesproxy.com/)/[Fiddler](https://www.telerik.com/fiddler) – debug proxy
