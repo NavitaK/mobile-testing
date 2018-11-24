@@ -21,7 +21,7 @@ This is a curated list of mobile testing related resources.
 * :cloud::iphone::man_farmer: [Mobile cloud services](#mobile-cloud-services)
 * :cloud: [Mobile cloud presentations](#mobile-cloud-presentations)
 * :hammer_and_wrench: [Test automation tools evaluation](#test-automation-tools-evaluation)
-* [Cross-platform best practices](#cross-platform-best-practices)
+* :thumbsup::green_apple::robot: [Cross-platform best practices](#cross-platform-best-practices)
 
 # :blue_book: Books
 
@@ -123,6 +123,6 @@ This is a curated list of mobile testing related resources.
 * [СI/CD в iOS и Android](https://www.youtube.com/watch?v=y0wxtyUQZ1I) (Ru)
 * [Do Androids Dream of UI Testing?](https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
 
-# Cross-platform best practices
+# :thumbsup::green_apple::robot: Cross-platform best practices
 
 * [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
