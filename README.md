@@ -18,10 +18,10 @@ This is a curated list of mobile testing related resources.
   * :scroll: [Official documentation](#official-documentation-ios)
   * :clapper: [Official presentations](#official-presentations-ios)
   * :clapper: [Native iOS test automation presentations](#native-ios-test-automation-presentations)
-* :cloud::iphone::man_farmer: [Mobile cloud services](#mobile-cloud-services)
+* :cloud::man_farmer: [Mobile cloud services](#mobile-cloud-services)
 * :cloud::clapper: [Mobile cloud presentations](#mobile-cloud-presentations)
 * :hammer_and_wrench: [Test automation tools evaluation](#test-automation-tools-evaluation)
-* :thumbsup::green_apple::robot: [Cross-platform best practices](#cross-platform-best-practices)
+* :thumbsup: [Cross-platform best practices](#cross-platform-best-practices)
 
 # :blue_book: Books
 
@@ -107,7 +107,7 @@ This is a curated list of mobile testing related resources.
 * [iOS Test Automation at Continuous Delivery Pipeline](https://www.youtube.com/watch?v=ImR956OKTn4) by Igor Dorovskikh
 * [Scalable iOS Test Automation with XCUITest and Swift 3](https://www.youtube.com/watch?v=xOxvCcidIf0) by Igor Dorovskikh
 
-# :cloud::iphone::man_farmer: Mobile cloud services
+# :cloud::man_farmer: Mobile cloud services
 
 * [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
@@ -123,6 +123,6 @@ This is a curated list of mobile testing related resources.
 * [СI/CD в iOS и Android](https://www.youtube.com/watch?v=y0wxtyUQZ1I) (Ru)
 * [Do Androids Dream of UI Testing?](https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
 
-# :thumbsup::green_apple::robot: Cross-platform best practices
+# :thumbsup: Cross-platform best practices
 
 * [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
