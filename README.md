@@ -5,22 +5,22 @@ This is a curated list of mobile testing related resources.
 # Table of contents
 
 * :blue_book: [Books](#books)
-* [Mind maps, mnemonics](#mind-maps-mnemonics)
+* :world_map: [Mind maps, mnemonics](#mind-maps-mnemonics)
 * :robot: **Android**
   * :scroll: [Official documentation](#official-documentation-android)
-  * [Official presentations](#official-presentations-android)
-  * :wrench: [Tools](#tools-android)
-  * [Virtualization](#virtualization-android)
-  * [Local device farm](#local-device-farm-android)
-  * [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
-  * [Native Android test automation presentations](#native-android-test-automation-presentations)
+  * :clapper: [Official presentations](#official-presentations-android)
+  * :hammer_and_wrench: [Tools](#tools-android)
+  * :ghost: [Virtualization](#virtualization-android)
+  * :iphone::man_farmer: [Local device farm](#local-device-farm-android)
+  * :hammer_and_wrench: [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
+  * :clapper: [Native Android test automation presentations](#native-android-test-automation-presentations)
 * :green_apple: **iOS**
   * :scroll: [Official documentation](#official-documentation-ios)
-  * [Official presentations](#official-presentations-ios)
-  * [Native iOS test automation presentations](#native-ios-test-automation-presentations)
-* :cloud: [Mobile cloud services](#mobile-cloud-services)
+  * :clapper: [Official presentations](#official-presentations-ios)
+  * :clapper: [Native iOS test automation presentations](#native-ios-test-automation-presentations)
+* :cloud::iphone::man_farmer: [Mobile cloud services](#mobile-cloud-services)
 * :cloud: [Mobile cloud presentations](#mobile-cloud-presentations)
-* :wrench: [Test automation tools evaluation](#test-automation-tools-evaluation)
+* :hammer_and_wrench: [Test automation tools evaluation](#test-automation-tools-evaluation)
 * [Cross-platform best practices](#cross-platform-best-practices)
 
 # :blue_book: Books
@@ -29,7 +29,7 @@ This is a curated list of mobile testing related resources.
 * [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714) by Daniel Knott (2015)
 * [Mobile Testing Tips: Experiences & Realities](https://www.amazon.com/Mobile-Testing-Tips-Experiences-Realities/dp/6056414035) by Baris Sarialioglu (2015)
 
-# Mind maps, mnemonics
+# :world_map: Mind maps, mnemonics
 
 * [Mind Maps: for Fast and Effective Testing](https://badootech.badoo.com/mind-maps-for-fast-and-effective-testing-30aab6bea6f4)
 
@@ -41,7 +41,7 @@ This is a curated list of mobile testing related resources.
 * [AndroidX Test release notes](https://developer.android.com/training/testing/release-notes)
 * [Test your app's accessibility](https://developer.android.com/training/accessibility/testing)
 
-# Official presentations (Android)
+# :clapper: Official presentations (Android)
 
 * [Testing Android Apps at Scale with Nitrogen](https://www.youtube.com/watch?v=-_kZC29sWAo) (Android Dev Summit '18)
 * [Testing Rebooted (with AndroidX Test)](https://www.youtube.com/watch?v=4m2yYSTdvIg) (Android Dev Summit '18)
@@ -49,7 +49,7 @@ This is a curated list of mobile testing related resources.
 * [Test-Driven Development on Android with the Android Testing Support Library](https://www.youtube.com/watch?v=pK7W5npkhho) (Google I/O '17)
 * [Going Green: Cleaning up the Toxic Mobile Environment](https://www.youtube.com/watch?v=aHcmsK9jfGU) (GTAC 2014)
 
-# :wrench: Tools (Android)
+# :hammer_and_wrench: Tools (Android)
 
 * [adb](https://developer.android.com/studio/command-line/adb) - a versatile command-line tool that lets you communicate with a device
 * [logcat](https://developer.android.com/studio/command-line/logcat) - a command-line tool that dumps a log of system messages, including stack traces when the device throws an error and messages that you have written from your app with the Log class
@@ -60,18 +60,18 @@ This is a curated list of mobile testing related resources.
 * [Crashlytics](https://docs.fabric.io/apple/crashlytics/overview.html) – crash reporting solution
 * [HockeyApp](https://hockeyapp.net/apps/) - a service that allows developers to recruit and manage testers, distribute apps, and collect crash reports, among other things
 
-# Virtualization (Android)
+# :ghost: Virtualization (Android)
 
 * [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers and Android emulators within containers
 * [Docker-Android](https://github.com/butomo1989/docker-android) - Android in docker solution with noVNC supported and video recording
 * [swarmer](https://github.com/gojuno/swarmer) - Reactive tool to create and start multiple Android Emulators in parallel
 * [fastlane-plugin-automated-test-emulator-run](https://github.com/AzimoLabs/fastlane-plugin-automated-test-emulator-run) - Plugin dedicated for Android platform. Wraps gradle task/shell command used for launching instrumented tests. Provides start of as many AVDs with various configs as needed before test run, waits for boot, kills emulators and deletes them from hdd after tests are finished or disturbed.
 
-# :iphone: Local device farm (Android)
+# :iphone::man_farmer: Local device farm (Android)
 
 * [OpenSTF](https://openstf.io/) - Control and manage Android devices from your browser
 
-# :wrench: Native Android test automation tools and libraries
+# :hammer_and_wrench: Native Android test automation tools and libraries
 
 * [Espresso](https://developer.android.com/training/testing/espresso/)
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
@@ -82,7 +82,7 @@ This is a curated list of mobile testing related resources.
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
 * [Robolectric](http://robolectric.org/) - a framework that brings fast and reliable unit tests to Android. Tests run inside the JVM on your workstation in seconds
 
-# Native Android test automation presentations
+# :clapper: Native Android test automation presentations
 
 * [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en) by Valera Zakharov
 * [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ) by Valera Zakharov
@@ -92,7 +92,7 @@ This is a curated list of mobile testing related resources.
 * [XCTest](https://developer.apple.com/documentation/xctest)
 * [About Testing with Xcode](https://developer.android.com/training/testing/) (archived)
 
-# Official presentations (iOS)
+# :clapper: Official presentations (iOS)
 
 * [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417) (WWDC 2018)
 * [What's New in Testing](https://developer.apple.com/videos/play/wwdc2018/403/) (WWDC 2018)
@@ -102,12 +102,12 @@ This is a curated list of mobile testing related resources.
 * [Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/) (WWDC 2015)
 * [UI Testing in Xcode](https://developer.apple.com/videos/wwdc/2015/?id=406) (WWDC 2015)
 
-# Native iOS test automation presentations
+# :clapper: Native iOS test automation presentations
 
 * [iOS Test Automation at Continuous Delivery Pipeline](https://www.youtube.com/watch?v=ImR956OKTn4) by Igor Dorovskikh
 * [Scalable iOS Test Automation with XCUITest and Swift 3](https://www.youtube.com/watch?v=xOxvCcidIf0) by Igor Dorovskikh
 
-# :cloud: Mobile cloud services
+# :cloud::iphone::man_farmer: Mobile cloud services
 
 * [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
@@ -115,7 +115,7 @@ This is a curated list of mobile testing related resources.
 
 * [Тестирование мобильных приложений используя облачные сервисы](https://www.youtube.com/watch?v=fLb2T02UBMI) (Ru) by Дмитрий Лемешко (2017-02-26)
 
-# :wrench: Test automation tools evaluation
+# :hammer_and_wrench: Test automation tools evaluation
 
 * [The Shifting Landscape of Mobile Automation](https://www.youtube.com/watch?v=AV8p2aeqsOg)
 * [Mobile automation: three act tragedy](https://seleniumcamp.com/talk/mobile-automation-three-act-tragedy/) (Ru)
