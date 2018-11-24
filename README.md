@@ -6,7 +6,7 @@ This is a curated list of mobile testing related resources.
 
 * [Books](#books)
 * [Mind maps, mnemonics](#mind-maps-mnemonics)
-* Android
+* **Android**
   * [Official documentation](#official-documentation-android)
   * [Official presentations](#official-presentations-android)
   * [Tools](#tools-android)
@@ -14,7 +14,7 @@ This is a curated list of mobile testing related resources.
   * [Local device farm](#local-device-farm-android)
   * [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
   * [Native Android test automation presentations](#native-android-test-automation-presentations)
-* iOS
+* **iOS**
   * [Official documentation](#official-documentation-ios)
   * [Official presentations](#official-presentations-ios)
   * [Native iOS test automation presentations](#native-ios-test-automation-presentations)
@@ -75,6 +75,9 @@ This is a curated list of mobile testing related resources.
 
 * [Espresso](https://developer.android.com/training/testing/espresso/)
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
+* [Source code for Android Test](https://github.com/android/android-test)
+* [StackOverflow for Espresso](https://stackoverflow.com/questions/tagged/android-espresso)
+* [Issue Tracker for Android Test](https://issuetracker.google.com/issues?q=componentid:192735%2B)
 * [Kakao](https://github.com/agoda-com/Kakao) – “Nice and simple DSL for Espresso in Kotlin”
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
 * [Robolectric](http://robolectric.org/) - a framework that brings fast and reliable unit tests to Android. Tests run inside the JVM on your workstation in seconds
