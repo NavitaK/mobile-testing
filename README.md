@@ -19,7 +19,7 @@ This is a curated list of mobile testing related resources.
   * :clapper: [Official presentations](#official-presentations-ios)
   * :clapper: [Native iOS test automation presentations](#native-ios-test-automation-presentations)
 * :cloud::iphone::man_farmer: [Mobile cloud services](#mobile-cloud-services)
-* :cloud: [Mobile cloud presentations](#mobile-cloud-presentations)
+* :cloud::clapper: [Mobile cloud presentations](#mobile-cloud-presentations)
 * :hammer_and_wrench: [Test automation tools evaluation](#test-automation-tools-evaluation)
 * :thumbsup::green_apple::robot: [Cross-platform best practices](#cross-platform-best-practices)
 
@@ -111,7 +111,7 @@ This is a curated list of mobile testing related resources.
 
 * [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
-# :cloud: Mobile cloud presentations
+# :cloud::clapper: Mobile cloud presentations
 
 * [Тестирование мобильных приложений используя облачные сервисы](https://www.youtube.com/watch?v=fLb2T02UBMI) (Ru) by Дмитрий Лемешко (2017-02-26)
 
