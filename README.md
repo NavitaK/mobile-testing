@@ -4,24 +4,24 @@ This is a curated list of mobile testing related resources.
 
 # Table of contents
 
-* :blue_book: [Books](#blue_book-books)
-* :world_map: [Mind maps, mnemonics](#world_map-mind-maps-mnemonics)
-* :robot: **Android**
-  * :scroll: [Official documentation](#scroll-official-documentation-android)
-  * :clapper: [Official presentations](#clapper-official-presentations-android)
-  * :hammer_and_wrench: [Tools](#hammer_and_wrench-tools-android)
-  * :ghost: [Virtualization](#ghost-virtualization-android)
-  * :iphone::man_farmer: [Local device farm](#iphoneman_farmer-local-device-farm-android)
-  * :hammer_and_wrench: [Native Android test automation tools and libraries](#hammer_and_wrench-native-android-test-automation-tools-and-libraries)
-  * :clapper: [Native Android test automation presentations](#clapper-native-android-test-automation-presentations)
-* :green_apple: **iOS**
-  * :scroll: [Official documentation](#scroll-official-documentation-ios)
-  * :clapper: [Official presentations](#clapper-official-presentations-ios)
-  * :clapper: [Native iOS test automation presentations](#clapper-native-ios-test-automation-presentations)
-* :cloud::man_farmer: [Mobile cloud services](#cloudman_farmer-mobile-cloud-services)
-* :cloud::clapper: [Mobile cloud presentations](#cloudclapper-mobile-cloud-presentations)
-* :hammer_and_wrench: [Test automation tools evaluation](#hammer_and_wrench-test-automation-tools-evaluation)
-* :thumbsup: [Cross-platform best practices](#thumbsup-cross-platform-best-practices)
+* [Books](#blue_book-books)
+* [Mind maps, mnemonics](#world_map-mind-maps-mnemonics)
+* **Android**
+  * [Official documentation](#scroll-official-documentation-android)
+  * [Official presentations](#clapper-official-presentations-android)
+  * [Tools](#hammer_and_wrench-tools-android)
+  * [Virtualization](#ghost-virtualization-android)
+  * [Local device farm](#iphoneman_farmer-local-device-farm-android)
+  * [Native Android test automation tools and libraries](#hammer_and_wrench-native-android-test-automation-tools-and-libraries)
+  * [Native Android test automation presentations](#clapper-native-android-test-automation-presentations)
+* **iOS**
+  * [Official documentation](#scroll-official-documentation-ios)
+  * [Official presentations](#clapper-official-presentations-ios)
+  * [Native iOS test automation presentations](#clapper-native-ios-test-automation-presentations)
+* [Mobile cloud services](#cloudman_farmer-mobile-cloud-services)
+* [Mobile cloud presentations](#cloudclapper-mobile-cloud-presentations)
+* [Test automation tools evaluation](#hammer_and_wrench-test-automation-tools-evaluation)
+* [Cross-platform best practices](#thumbsup-cross-platform-best-practices)
 
 # :blue_book: Books
 
