@@ -74,7 +74,8 @@ This is a curated list of mobile testing related resources.
 
 # :hammer_and_wrench: Native Android test automation tools and libraries
 
-* [Espresso](https://developer.android.com/training/testing/espresso/)
+* [Espresso](https://developer.android.com/training/testing/espresso/) - The Espresso testing framework, provided by AndroidX Test, provides APIs for writing UI tests to simulate user interactions within a single target app
+* [Wait for it… IdlingResource and ConditionWatcher](https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356)
 * [Android Test Orchestrator](https://developer.android.com/training/testing/junit-runner#using-android-test-orchestrator) - run each test in it’s own instrumentation process, clear app state between tests
 * [Source code for Android Test](https://github.com/android/android-test)
 * [StackOverflow for Espresso](https://stackoverflow.com/questions/tagged/android-espresso)
