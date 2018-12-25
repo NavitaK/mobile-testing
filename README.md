@@ -11,15 +11,15 @@ This is a curated list of mobile testing related resources.
   * [Official presentations](#clapper-official-presentations-android)
   * [Tools](#hammer_and_wrench-tools-android)
   * [Virtualization](#ghost-virtualization-android)
-  * [Local device farm](#iphoneman_farmer-local-device-farm-android)
+  * [Local device farm](#iphone-local-device-farm-android)
   * [Native Android test automation tools and libraries](#hammer_and_wrench-native-android-test-automation-tools-and-libraries)
   * [Native Android test automation presentations](#clapper-native-android-test-automation-presentations)
 * **iOS**
   * [Official documentation](#scroll-official-documentation-ios)
   * [Official presentations](#clapper-official-presentations-ios)
   * [Native iOS test automation presentations](#clapper-native-ios-test-automation-presentations)
-* [Mobile cloud services](#cloudman_farmer-mobile-cloud-services)
-* [Mobile cloud presentations](#cloudclapper-mobile-cloud-presentations)
+* [Mobile cloud services](#cloud-mobile-cloud-services)
+* [Mobile cloud presentations](#cloud-mobile-cloud-presentations)
 * [Test automation tools evaluation](#hammer_and_wrench-test-automation-tools-evaluation)
 * [Cross-platform best practices](#thumbsup-cross-platform-best-practices)
 
@@ -68,7 +68,7 @@ This is a curated list of mobile testing related resources.
 * [swarmer](https://github.com/gojuno/swarmer) - Reactive tool to create and start multiple Android Emulators in parallel
 * [fastlane-plugin-automated-test-emulator-run](https://github.com/AzimoLabs/fastlane-plugin-automated-test-emulator-run) - Plugin dedicated for Android platform. Wraps gradle task/shell command used for launching instrumented tests. Provides start of as many AVDs with various configs as needed before test run, waits for boot, kills emulators and deletes them from hdd after tests are finished or disturbed.
 
-# :iphone::man_farmer: Local device farm (Android)
+# :iphone: Local device farm (Android)
 
 * [OpenSTF](https://openstf.io/) - Control and manage Android devices from your browser
 
@@ -109,11 +109,11 @@ This is a curated list of mobile testing related resources.
 * [iOS Test Automation at Continuous Delivery Pipeline](https://www.youtube.com/watch?v=ImR956OKTn4) by Igor Dorovskikh
 * [Scalable iOS Test Automation with XCUITest and Swift 3](https://www.youtube.com/watch?v=xOxvCcidIf0) by Igor Dorovskikh
 
-# :cloud::man_farmer: Mobile cloud services
+# :cloud: Mobile cloud services
 
 * [Firebase Test lab](https://firebase.google.com/docs/test-lab/) (Android and iOS) - Test your app on devices hosted in a Google data center
 
-# :cloud::clapper: Mobile cloud presentations
+# :cloud: Mobile cloud presentations
 
 * [Тестирование мобильных приложений используя облачные сервисы](https://www.youtube.com/watch?v=fLb2T02UBMI) (Ru) by Дмитрий Лемешко (2017-02-26)
 
