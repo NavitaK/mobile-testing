@@ -39,7 +39,7 @@ This is a curated list of mobile testing related resources.
 * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
 * [Using Firebase Test Lab to Improve the Quality of your Mobile Apps](https://codelabs.developers.google.com/codelabs/firebase-test-lab/index.html)
 * [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html#0)
-* [AndroidX Test release notes](https://developer.android.com/training/testing/release-notes)
+* [AndroidX Test release notes](https://developer.android.com/jetpack/androidx/releases/test), previous versions (https://developer.android.com/training/testing/release-notes)
 * [Test your app's accessibility](https://developer.android.com/training/accessibility/testing)
 
 # Official presentations (Android)
