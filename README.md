@@ -12,15 +12,15 @@ This is a curated list of mobile testing related resources.
   * [Tools](#tools-android)
   * [Virtualization](#virtualization-android)
   * [Local device farm](#local-device-farm-android)
-  * [Native test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
-  * [Native test automation presentations](#native-android-test-automation-presentations)
+  * [Native test automation tools and libraries](#native-test-automation-tools-and-libraries-android)
+  * [Native test automation presentations](#native-test-automation-presentations-android)
 * **iOS**
   * [Official documentation](#official-documentation-ios)
   * [Official presentations](#official-presentations-ios)
   * [Tools](#tools-ios)
-  * [Native test automation trainings](#native-ios-test-automation-trainings)
-  * [Native test automation articles](#native-ios-test-automation-articles)
-  * [Native test automation presentations](#native-ios-test-automation-presentations)
+  * [Native test automation trainings](#native-test-automation-trainings-ios)
+  * [Native test automation articles](#native-test-automation-articles-ios)
+  * [Native test automation presentations](#native-test-automation-presentations-ios)
 * [Mobile cloud services](#mobile-cloud-services)
 * [Mobile cloud presentations](#mobile-cloud-presentations)
 * [Test automation tools evaluation](#test-automation-tools-evaluation)
@@ -92,7 +92,6 @@ This is a curated list of mobile testing related resources.
 
 * [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en) by Valera Zakharov
 * [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ) by Valera Zakharov
-* [Mobile automation state in 2019](https://www.youtube.com/watch?v=0velJslwNn8) by Dmitry Lemeshko (Ru)
 * [Android Apps Testing in 2019](https://www.youtube.com/watch?v=aWLsGMsKsWM) by Ivan Katunou (Ru)
 
 # Official documentation (iOS)
@@ -147,6 +146,7 @@ This is a curated list of mobile testing related resources.
 
 # Test automation tools evaluation
 
+* [Mobile automation state in 2019](https://www.youtube.com/watch?v=0velJslwNn8) by Dmitry Lemeshko (Ru)
 * [The Shifting Landscape of Mobile Automation](https://www.youtube.com/watch?v=AV8p2aeqsOg)
 * [Mobile automation: three act tragedy](https://seleniumcamp.com/talk/mobile-automation-three-act-tragedy/) (Ru)
 * [Appium vs Espresso. Что выбрать и как использовать?](https://www.youtube.com/watch?v=A1_Xzcs_Fec) (Ru)
