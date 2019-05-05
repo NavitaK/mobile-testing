@@ -12,15 +12,15 @@ This is a curated list of mobile testing related resources.
   * [Tools](#tools-android)
   * [Virtualization](#virtualization-android)
   * [Local device farm](#local-device-farm-android)
-  * [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
-  * [Native Android test automation presentations](#native-android-test-automation-presentations)
+  * [Native test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
+  * [Native test automation presentations](#native-android-test-automation-presentations)
 * **iOS**
   * [Official documentation](#official-documentation-ios)
   * [Official presentations](#official-presentations-ios)
   * [Tools](#tools-ios)
-  * [Native iOS test automation trainings](#native-android-test-automation-trainings)
-  * [Native iOS test automation articles](#native-android-test-automation-articles)
-  * [Native iOS test automation presentations](#native-ios-test-automation-presentations)
+  * [Native test automation trainings](#native-ios-test-automation-trainings)
+  * [Native test automation articles](#native-ios-test-automation-articles)
+  * [Native test automation presentations](#native-ios-test-automation-presentations)
 * [Mobile cloud services](#mobile-cloud-services)
 * [Mobile cloud presentations](#mobile-cloud-presentations)
 * [Test automation tools evaluation](#test-automation-tools-evaluation)
@@ -76,7 +76,7 @@ This is a curated list of mobile testing related resources.
 
 * [OpenSTF](https://openstf.io/) - Control and manage Android devices from your browser
 
-# Native Android test automation tools and libraries
+# Native test automation tools and libraries (Android)
 
 * [Espresso](https://developer.android.com/training/testing/espresso/) - The Espresso testing framework, provided by AndroidX Test, provides APIs for writing UI tests to simulate user interactions within a single target app
 * [Wait for it… IdlingResource and ConditionWatcher](https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356)
@@ -88,10 +88,12 @@ This is a curated list of mobile testing related resources.
 * [Barista](https://github.com/SchibstedSpain/Barista) – “The guy who serves a great Espresso”
 * [Robolectric](http://robolectric.org/) - a framework that brings fast and reliable unit tests to Android. Tests run inside the JVM on your workstation in seconds
 
-# Native Android test automation presentations
+# Native test automation presentations (Android)
 
 * [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en) by Valera Zakharov
 * [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ) by Valera Zakharov
+* [Mobile automation state in 2019](https://www.youtube.com/watch?v=0velJslwNn8) by Dmitry Lemeshko (Ru)
+* [Android Apps Testing in 2019](https://www.youtube.com/watch?v=aWLsGMsKsWM) by Ivan Katunou (Ru)
 
 # Official documentation (iOS)
 
@@ -114,11 +116,11 @@ This is a curated list of mobile testing related resources.
 
 * [Automated UI-Testing for iOS Apps. How to make sure your app does what it's supposed to do](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411) by Jan Olbrich
 
-# Native iOS test automation trainings
+# Native test automation trainings (iOS)
 
 * [Introduction to iOS Test Automation with XCUITest](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/) by Shashikant Jagtap
 
-# Native iOS test automation articles
+# Native test automation articles (iOS)
 
 * [UI Testing](http://masilotti.com/topics/#ui-testing) by Joe Masilotti
 * [Getting started with Xcode UI testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift) by John Sundell
@@ -129,7 +131,7 @@ This is a curated list of mobile testing related resources.
 * [Faster and more robust tests with Xcode 10](https://www.swiftbysundell.com/daily-wwdc/faster-and-more-robust-tests-with-xcode-10) by John Sundell
 * [Launch arguments in Swift](https://www.swiftbysundell.com/posts/launch-arguments-in-swift) by John Sundell
 
-# Native iOS test automation presentations
+# Native test automation presentations (iOS)
 
 * [iOS Test Automation at Continuous Delivery Pipeline](https://www.youtube.com/watch?v=ImR956OKTn4) by Igor Dorovskikh
 * [Scalable iOS Test Automation with XCUITest and Swift 3](https://www.youtube.com/watch?v=xOxvCcidIf0) by Igor Dorovskikh
@@ -140,6 +142,7 @@ This is a curated list of mobile testing related resources.
 
 # Mobile cloud presentations
 
+* [Overview for device farms for mobile testing](https://www.youtube.com/watch?v=mzQltFHgnKk) by Anna Klueva (Ru)
 * [Тестирование мобильных приложений используя облачные сервисы](https://www.youtube.com/watch?v=fLb2T02UBMI) (Ru) by Дмитрий Лемешко (2017-02-26)
 
 # Test automation tools evaluation
