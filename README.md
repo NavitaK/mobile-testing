@@ -9,7 +9,7 @@ This is a curated list of mobile testing related resources.
 * **Android**
   * [Official documentation](#official-documentation-android)
   * [Official presentations](#official-presentations-android)
-  * [Tools](#android)
+  * [Tools](#tools-android)
   * [Virtualization](#virtualization-android)
   * [Local device farm](#local-device-farm-android)
   * [Native Android test automation tools and libraries](#native-android-test-automation-tools-and-libraries)
@@ -17,6 +17,9 @@ This is a curated list of mobile testing related resources.
 * **iOS**
   * [Official documentation](#official-documentation-ios)
   * [Official presentations](#official-presentations-ios)
+  * [Tools](#tools-ios)
+  * [Native iOS test automation trainings](#native-android-test-automation-trainings)
+  * [Native iOS test automation articles](#native-android-test-automation-articles)
   * [Native iOS test automation presentations](#native-ios-test-automation-presentations)
 * [Mobile cloud services](#mobile-cloud-services)
 * [Mobile cloud presentations](#mobile-cloud-presentations)
@@ -25,6 +28,7 @@ This is a curated list of mobile testing related resources.
 
 # Books
 
+* [Testing Swift](https://www.hackingwithswift.com/store/testing-swift) by Paul Hudson
 * [Tap Into Mobile Application Testing](https://leanpub.com/testmobileapps) by Jonathan Kohl (2017)
 * [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714) by Daniel Knott (2015)
 * [Mobile Testing Tips: Experiences & Realities](https://www.amazon.com/Mobile-Testing-Tips-Experiences-Realities/dp/6056414035) by Baris Sarialioglu (2015)
@@ -93,6 +97,8 @@ This is a curated list of mobile testing related resources.
 
 * [XCTest](https://developer.apple.com/documentation/xctest)
 * [About Testing with Xcode](https://developer.android.com/training/testing/) (archived)
+* [Swift language guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [SwiftBook](https://swiftbook.ru/post/tutorials/unit-testing-ui-testing-tutorial/) - Swift language book (Ru)
 
 # Official presentations (iOS)
 
@@ -103,6 +109,25 @@ This is a curated list of mobile testing related resources.
 * [Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409) (WWDC 2016)
 * [Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/) (WWDC 2015)
 * [UI Testing in Xcode](https://developer.apple.com/videos/wwdc/2015/?id=406) (WWDC 2015)
+
+# Tools (iOS)
+
+* [Automated UI-Testing for iOS Apps. How to make sure your app does what it's supposed to do](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411) by Jan Olbrich
+
+# Native iOS test automation trainings
+
+* [Introduction to iOS Test Automation with XCUITest](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/) by Shashikant Jagtap
+
+# Native iOS test automation articles
+
+* [UI Testing](http://masilotti.com/topics/#ui-testing) by Joe Masilotti
+* [Getting started with Xcode UI testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift) by John Sundell
+* [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet) by Paul Hudson
+* [Hands-on XCUITest Features with Xcode 9](http://shashikantjagtap.net/hands-xcuitest-features-xcode-9/) by Shashikant Jagtap
+* [The iOS Testing Manifesto](https://blog.usejournal.com/the-ios-testing-manifesto-e1bc821cc4c3) by Hesham Salman
+* [Parallel testing: get feedback earlier, release faster. How to test your iOS apps with Xcode 10 effectively](https://medium.com/azimolabs/parallel-testing-get-feedback-earlier-release-faster-b66d4dd08930) by Paweł Zemsta
+* [Faster and more robust tests with Xcode 10](https://www.swiftbysundell.com/daily-wwdc/faster-and-more-robust-tests-with-xcode-10) by John Sundell
+* [Launch arguments in Swift](https://www.swiftbysundell.com/posts/launch-arguments-in-swift) by John Sundell
 
 # Native iOS test automation presentations
 
