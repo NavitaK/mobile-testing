@@ -14,6 +14,7 @@ This is a curated list of mobile testing related resources.
   * [Local device farm](#local-device-farm-android)
   * [Native test automation tools and libraries](#native-test-automation-tools-and-libraries-android)
   * [Native test automation presentations](#native-test-automation-presentations-android)
+  * [Native test automation articles](#native-test-automation-articles-android)
 * **iOS**
   * [Official documentation](#official-documentation-ios)
   * [Official presentations](#official-presentations-ios)
@@ -93,6 +94,11 @@ This is a curated list of mobile testing related resources.
 * [A practical guide to writing solid UI tests on Android](https://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en) by Valera Zakharov
 * [UI testing is so easy - said no developer ever](https://www.youtube.com/watch?v=SkkO6x6LhCQ) by Valera Zakharov
 * [Android Apps Testing in 2019](https://www.youtube.com/watch?v=aWLsGMsKsWM) by Ivan Katunou (Ru)
+* [Воркшоп по автотестам](https://www.youtube.com/watch?v=FExlaWfKENI) by Kaspersky Lab (Ru)
+
+# Native test automation articles (Android)
+
+* [Better Android Testing at Airbnb](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a) by AirBnb
 
 # Official documentation (iOS)
 
@@ -114,6 +120,8 @@ This is a curated list of mobile testing related resources.
 # Tools (iOS)
 
 * [Automated UI-Testing for iOS Apps. How to make sure your app does what it's supposed to do](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411) by Jan Olbrich
+* [EarlGrey](https://github.com/google/EarlGrey) by Google
+* [MixBox](https://github.com/avito-tech/Mixbox) by Avito
 
 # Native test automation trainings (iOS)
 
