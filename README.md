@@ -29,6 +29,9 @@ This is a curated list of mobile testing related resources.
 
 # Books
 
+* [iOS Unit Testing by Example: XCTest Tips and Techniques Using Swift](https://www.goodreads.com/book/show/50824142-ios-unit-testing-by-example) by John Reid
+* [Test-Driven iOS Development with Swift 4](https://www.goodreads.com/book/show/36510377-test-driven-ios-development-with-swift-4---third-edition) by Dominik Hauser
+* [iOS Code Testing: Test-Driven Development and Behavior-Driven Development with Swift](https://www.goodreads.com/book/show/33918855-ios-code-testing) by Abhishek Mishra
 * [Testing Swift](https://www.hackingwithswift.com/store/testing-swift) by Paul Hudson
 * [Tap Into Mobile Application Testing](https://leanpub.com/testmobileapps) by Jonathan Kohl (2017)
 * [Hands-On Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business](https://www.amazon.com/Hands-Mobile-App-Testing-Involved/dp/0134191714) by Daniel Knott (2015)
